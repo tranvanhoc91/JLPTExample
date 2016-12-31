@@ -1,0 +1,10 @@
+guide
+Overview of the new test
+Points of revision
+
+-Yeu cau can dat  Required
+	-N1:
+		- Listening
+		- Reding
+	- N2...
+-Test sections and Test time
